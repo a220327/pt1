@@ -122,6 +122,9 @@ ob_start();
               </a>
             </td>
           </tr>
+          <tr>
+          <td colspan="5" class="text-center">No staff members found</td>
+          </tr>
         </tbody>
       </table>
     </div>

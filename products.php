@@ -150,7 +150,7 @@ ob_start();
                          <a href="#" class="btn btn-sm btn-danger" title="Delete"><i class="bi bi-trash"></i></a>
                         </td>
                     </tr>
-                    <tr class="d-none">
+                    <tr>
                         <td colspan="5" class="text-center">No products found</td>
                     </tr>
                 </tbody>

@@ -60,7 +60,7 @@ ob_start();
                         <td>2</td>
                         <td class="text-end">RM 98.00</td>
                     </tr>
-                    <tr class="d-none"><td colspan="5" class="text-center">No products added to this order</td></tr>
+                    <tr><td colspan="5" class="text-center">No products added to this order</td></tr>
                 </tbody>
                 <tfoot><tr><th colspan="4" class="text-end">Grand Total</th><th class="text-end">RM 98.00</th></tr></tfoot>
             </table>
